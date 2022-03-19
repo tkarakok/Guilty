@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ab98a17e32109ad4384755c9229b276d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Occams Eraser
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0871bb9e0c669c4fa4eae24971380d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
