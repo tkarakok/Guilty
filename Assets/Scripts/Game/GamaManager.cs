@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using PathCreation;
 public class GamaManager : Singleton<GamaManager>
 {
     public LevelSettings levelSettings;
     public Transform guiltyPoint,nonGuiltyPoint;
-
+    public PathCreator guiltyPath,nonGuiltyPath;
     #region Private Fields
     private int _totalDefendat;
     private int _complateDefendats = 0;

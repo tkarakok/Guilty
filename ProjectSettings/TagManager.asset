@@ -5,14 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Stop
+  - Destroy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Point
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
